@@ -1,10 +1,10 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Wayne Zhou</h1>
-<h3 align="center">MSCS @ Northeastern University: Full Stack Web Dev | ML Explorer | Certified AWS Practitioner</h3>
+<h3 align="center">MSCS @ Northeastern University: Full Stack Dev | ML Explorer | Certified AWS Practitioner</h3>
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **PyTorch** and **Distributed System**
 
-- 💬 Ask me about **MERN, ML Models, Cloud**
+- 💬 Ask me about **MERN, ML Application, Cloud**
 
 - 📫 Reach me at **zzwwayne39@gmail.com**
 
@@ -48,8 +48,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   &nbsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  &nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   &nbsp;
